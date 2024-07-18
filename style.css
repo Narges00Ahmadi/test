@@ -1,0 +1,14 @@
+h2{
+    color: blueviolet;
+    border: solid 2px #528549;
+}
+body{
+    font-size: large;
+}
+p{
+    background-color: blue;
+    width: 100px;
+    height: 150px;
+    color: aliceblue;
+    font-family: sans-serif;
+}
